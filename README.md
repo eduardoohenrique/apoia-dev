@@ -16,7 +16,7 @@ O **ApoiaDev** é uma plataforma criada para ajudar desenvolvedores, criadores d
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Frontend:** React,HTML5,TailwindCSS
+- **Frontend:** React, HTML5, TailwindCSS
 - **Backend:** Next JS, Stripe 
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Outros:** Git, GitHub, integração com sistemas de pagamento
